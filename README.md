@@ -12,9 +12,10 @@
 
 
 <a href="https://github.com/laithnurie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laithnurie&count_private=true" />
+  <img align="center" src="https://readme-stats.clckblog.space/api?username=laithnurie&count_private=true" />
 </a>
+
 <a href="https://github.com/laithnurie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laithnurie&count_private=true&hide=CSS,SCSS,HTML&exclude_repo=rhythm" />
+  <img align="center" src="https://readme-stats.clckblog.space/api/top-langs/?username=laithnurie&count_private=true&hide=CSS,SCSS,HTML&exclude_repo=rhythm" />
 </a>
 
