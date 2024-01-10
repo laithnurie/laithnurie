@@ -19,3 +19,4 @@
   <img align="center" src="https://readme-stats.clckblog.space/api/top-langs/?username=laithnurie&count_private=true&hide=CSS,SCSS,HTML&exclude_repo=rhythm" />
 </a>
 
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
